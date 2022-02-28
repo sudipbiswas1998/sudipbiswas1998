@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudipbiswas1998
+- 👋 Hi, I’m @sudipbiswas1998, Intern @Wipro Ltd. 
 - 👀 I’m interested in App development
 - 🌱 I’m currently learning Android app development
 - 💞️ I’m looking to collaborate on open source project
