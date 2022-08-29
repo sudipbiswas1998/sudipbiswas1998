@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sudipbiswas1998, Intern @Wipro Ltd. 
-- 👀 I’m interested in App development
+- 👋 Hi, I’m @sudipbiswas1998
+- 👀 I’m interested in Mobile App development
 - 🌱 I’m currently learning Android app development
 - 💞️ I’m looking to collaborate on open source project
 
