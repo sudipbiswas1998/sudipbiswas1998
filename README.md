@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sudipbiswas1998
-- 👀 I’m interested in Mobile App development
-- 🌱 I’m currently learning Android app development
+- 😇 I'm experienced Spring Boot developer
+- 👀 I’m interested in Full stack development
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source project
 
 <!---
